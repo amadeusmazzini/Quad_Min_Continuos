@@ -23,5 +23,5 @@ end
 α = M\B             #Resolve M α = B
 P(x) = sum(α[k+1]*x^(k) for k = 0:grau) #Polinômio aproximador
 m = range(0,1, length=100)
-plot(m,f.(m))       #Plota a f
-plot!(m,P.(m))      #Plota a aproximação
+plot(m,f.(m),lab="f(x)")
+plot!(m,P.(m),lab="Aproximação",legend=:bottomright)
