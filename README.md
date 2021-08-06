@@ -1,4 +1,6 @@
 # Quad_Min_Continuos
-Código utilizado para o Projeto 2 de Cálculo Numérico - 2021
+Arquivos utilizados para o Projeto 2 de Cálculo Numérico - 2021
 
-Algortimo em Linguagem Julia para aproximar uma função continua por Polinômios de Chebyshev.
+Esse Repositório contém códigos para aproximação Polinômial, por meio de quadrados Mínimos Continuos
+utilizando métodos tradicionais e também Polinômios Ortogonais, além do artigo escrito em LaTeX e
+uma apresentação em PowerPoint sobre o tema.
