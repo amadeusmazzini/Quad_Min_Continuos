@@ -5,7 +5,7 @@ gr()
 # ALGORITMO PARA APROXIMAR FUNÇÕES UTILIZANDO POLINÔMIOS DE CHEBYSHEV
 
 #f(x) = (1+sqrt(2+x))/(1+sqrt(1+x^2))+sin(5*π*x)*cos(5x)x^2/(x^2+1) #(SUGESTÃO)
-f(x) = x == 0 ? 0.0 : x * log(x)        ## Digite a função f(x) que deseja aproximar   
+f(x) = x*sin(x)        ## Digite a função f(x) que deseja aproximar   
 a, b = 0, 2                             ## Digite o intervalo [a,b] que deseja
 grau = 5                                ## Digite o Grau da aproximação
 
