@@ -1,4 +1,4 @@
-# Quad_Min_Continuos
+# Quadrados Mínimos Contínuos
 Arquivos utilizados para o Projeto 2 de Cálculo Numérico - 2021
 
 Esse Repositório contém:
