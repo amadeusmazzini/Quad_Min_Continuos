@@ -4,6 +4,7 @@ Arquivos utilizados para o Projeto 2 de Cálculo Numérico - 2021
 Esse Repositório contém:
 
 Códigos para:
+
               Aproximação de uma função utilizando quadrados mínimos contínuos
               
               Ortogonalização de Polinômios e a aproximação utilizando-os
